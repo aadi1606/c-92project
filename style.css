@@ -1,0 +1,28 @@
+#player_1{
+    background-color: red;
+    width: 500;
+    height: 200;
+    color: white;
+    
+}
+#player_2{
+    background-color: blue;
+    width: 500;
+    height: 200;
+    color: white;
+}
+#heading1{
+    color: rgb(255, 123, 0);
+}
+#heading2{
+    color: rgb(1, 105, 1);
+}
+#body{
+background-color: rgb(253, 249, 15);
+}
+#player1_name{
+    color: black;
+}
+#player2_name{
+    color: black;
+}
